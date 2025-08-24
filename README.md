@@ -33,6 +33,7 @@ This project demonstrates how to automate financial calculator workflows and val
    git clone https://github.com/<your-username>/<repo-name>.git
 
 2. Navigate to project folder:
+    ```bash
     cd data-driven-testing-java
 
 3. Run with Maven:
