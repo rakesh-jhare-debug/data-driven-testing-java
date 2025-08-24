@@ -37,20 +37,21 @@ This project demonstrates how to automate financial calculator workflows and val
     cd data-driven-testing-java
 
 3. Run with Maven:
+    ```bash
     mvn test [If this command is not working then use below command]
     mvn clean test-compile exec:java
 
 
-🔹 Sample Flow
+## 🔹 Sample Flow
     Open Groww Simple Interest Calculator.
     Enter principle, rate of interest, and time.
     Fetch dynamically calculated Total Interest.
     Validate against expected values.
 
-🔹 Why This Project?
+## 🔹 Why This Project?
     This project shows how data-driven testing can be applied in real-world financial tools, ensuring accuracy and reliability in calculations.
 
-🔹 Future Enhancements
+## 🔹 Future Enhancements
     Add Excel/CSV integration for input data.
     Extend to other Groww calculators.
     Add TestNG / JUnit integration for structured test reports.
